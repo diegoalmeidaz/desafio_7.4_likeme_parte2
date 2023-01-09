@@ -1,4 +1,4 @@
-# Desafio 7.3 LikeMe
+# Desafio 7.4 LikeMe (Parte 2)
 Crar un servidor que disponibilice las rustas GET y POST para consultas y guardar los posts en una base de datos PostgreSQL con el paquete pg
 En esta segunda parte, se agregan funcionalidades put y delete, de manera de poder eliminar y agregar likes a las publicaciones
 
